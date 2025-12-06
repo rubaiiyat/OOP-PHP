@@ -18,3 +18,7 @@ $student1->email= "john@gmail.com";
 $student1->introduce();
 
 ?>
+
+<!-- Class is the blueprint of object -->
+ <!-- Object is the instance of class -->
+  <!-- $this -> Point current object -->
